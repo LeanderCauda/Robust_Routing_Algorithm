@@ -1,7 +1,9 @@
 # Probabilistic Routing Algorithm for Public Transport under Uncertainty
 
 ## Disclaimer
-I am not the only author of this project. This project was completed in a group of 5 for the course 'Large Scale Data Science' and uploaded to a repository that no longer exists. This repository was created solely for the purpose of showcasing our work.
+I am not the only author of this project. This project was completed in a group of 5 for the course 'Large Scale Data Science' and uploaded to a repository that no longer exists. This repository was created solely for the purpose of showcasing our work. 
+
+The datasets used in this project were provided to us during the course and are not publicly available. As a result, the code in this repository cannot be run as-is. It is shared for demonstration purposes only.
 
 ## Overview
 This project implements a **stochastic routing algorithm** that accounts for real-world uncertainties in public transport systems, such as **delays**, **weather effects**, and **missed connections**.  
